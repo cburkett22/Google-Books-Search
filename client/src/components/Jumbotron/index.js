@@ -5,8 +5,8 @@ function Jumbotron() {
   return (
     <div className="jumbotron text-center">
       <h1>Google Book Search</h1>
-      <a target="_blank" rel="noopener noreferrer" href="http://www.recipepuppy.com/about/api/">
-        Powered by Recipe Puppy
+      <a target="_blank" rel="noopener noreferrer" href="https://books.google.com/googlebooks/about/index.html">
+        Powered by Google Books
       </a>
     </div>
   );
